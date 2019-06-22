@@ -1,7 +1,8 @@
 # devops
 
 - [RESTful APIs, the big lie](https://mmikowski.github.io/the_lie/)
-- https://mp.weixin.qq.com/s/OX2xg1I2ZUTlEvAlfLfwVw
+- [DevOps精选文章
+](https://mp.weixin.qq.com/s/OX2xg1I2ZUTlEvAlfLfwVw)
 - [Docker 引领测试革新](http://www.infoq.com/cn/articles/docker-lead-test-innovation)
 - https://www.bookstack.cn/read/prometheus-manual/introduction-get_started.md
 - [最佳实践：4个黄金指标和USE方](https://www.ctolib.com/docs/sfile/prometheus-book/promql/prometheus-promql-best-praticase.html)
